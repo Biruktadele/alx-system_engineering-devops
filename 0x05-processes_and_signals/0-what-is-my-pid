@@ -1,0 +1,5 @@
+table File  3 lines (3 sloc)  52 Bytes
+
+#!/usr/bin/env bash
+# Displays its own PID.
+echo $$
